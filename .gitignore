@@ -1,0 +1,6 @@
+
+# Large model files
+models/*.bin
+
+# Build artifacts
+build/
